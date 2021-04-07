@@ -1,7 +1,7 @@
-package com.iuriimednikov.customerserviceref.web;
+package me.mednikov.customerserviceref.web;
 
-import com.iuriimednikov.customerserviceref.models.CustomerModel;
-import com.iuriimednikov.customerserviceref.services.CustomerService;
+import me.mednikov.customerserviceref.models.CustomerModel;
+import me.mednikov.customerserviceref.services.CustomerService;
 import lombok.Value;
 import org.reactivestreams.Publisher;
 import org.springframework.http.MediaType;

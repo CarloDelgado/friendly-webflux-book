@@ -1,4 +1,4 @@
-package com.iuriimednikov.customerserviceref.validation;
+package me.mednikov.customerserviceref.validation;
 
 import reactor.core.publisher.Mono;
 

@@ -1,4 +1,4 @@
-package com.iuriimednikov.customerserviceref.models;
+package me.mednikov.customerserviceref.models;
 
 import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.annotation.JsonProperty;

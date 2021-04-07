@@ -1,6 +1,6 @@
-package com.iuriimednikov.customerserviceref.services;
+package me.mednikov.customerserviceref.services;
 
-import com.iuriimednikov.customerserviceref.models.CustomerModel;
+import me.mednikov.customerserviceref.models.CustomerModel;
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
 

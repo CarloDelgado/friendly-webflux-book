@@ -1,6 +1,6 @@
-package com.iuriimednikov.customerserviceref.clients;
+package me.mednikov.customerserviceref.clients;
 
-import com.iuriimednikov.customerserviceref.models.PostModel;
+import me.mednikov.customerserviceref.models.PostModel;
 import java.net.URI;
 import java.util.List;
 import org.assertj.core.api.Assertions;

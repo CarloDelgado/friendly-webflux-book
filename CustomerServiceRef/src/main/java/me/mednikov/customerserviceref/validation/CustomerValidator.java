@@ -1,9 +1,9 @@
-package com.iuriimednikov.customerserviceref.validation;
+package me.mednikov.customerserviceref.validation;
 
 import am.ik.yavi.builder.ValidatorBuilder;
 import am.ik.yavi.core.ConstraintViolations;
 import am.ik.yavi.core.Validator;
-import com.iuriimednikov.customerserviceref.models.CustomerModel;
+import me.mednikov.customerserviceref.models.CustomerModel;
 import reactor.core.publisher.Mono;
 
 public class CustomerValidator implements BaseValidator<CustomerModel> {

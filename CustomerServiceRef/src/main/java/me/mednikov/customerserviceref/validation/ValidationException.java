@@ -1,4 +1,4 @@
-package com.iuriimednikov.customerserviceref.validation;
+package me.mednikov.customerserviceref.validation;
 
 import am.ik.yavi.core.ConstraintViolation;
 import java.util.List;

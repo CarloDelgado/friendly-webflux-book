@@ -1,4 +1,4 @@
-package com.iuriimednikov.customerserviceref;
+package me.mednikov.customerserviceref;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

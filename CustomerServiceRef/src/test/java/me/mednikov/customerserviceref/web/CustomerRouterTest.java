@@ -1,7 +1,9 @@
-package com.iuriimednikov.customerserviceref.web;
+package me.mednikov.customerserviceref.web;
 
-import com.iuriimednikov.customerserviceref.models.CustomerModel;
-import com.iuriimednikov.customerserviceref.services.CustomerService;
+import me.mednikov.customerserviceref.web.CustomerHandler;
+import me.mednikov.customerserviceref.web.CustomerRouter;
+import me.mednikov.customerserviceref.models.CustomerModel;
+import me.mednikov.customerserviceref.services.CustomerService;
 import java.net.URI;
 import java.util.List;
 import org.assertj.core.api.Assertions;

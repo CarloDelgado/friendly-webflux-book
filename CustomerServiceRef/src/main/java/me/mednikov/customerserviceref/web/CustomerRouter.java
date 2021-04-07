@@ -1,4 +1,4 @@
-package com.iuriimednikov.customerserviceref.web;
+package me.mednikov.customerserviceref.web;
 
 import java.util.List;
 import org.springframework.context.annotation.Bean;

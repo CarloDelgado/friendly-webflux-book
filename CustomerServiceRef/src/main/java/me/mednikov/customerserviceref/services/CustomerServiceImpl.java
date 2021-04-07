@@ -1,7 +1,7 @@
-package com.iuriimednikov.customerserviceref.services;
+package me.mednikov.customerserviceref.services;
 
-import com.iuriimednikov.customerserviceref.models.CustomerModel;
-import com.iuriimednikov.customerserviceref.repositories.CustomerRepository;
+import me.mednikov.customerserviceref.models.CustomerModel;
+import me.mednikov.customerserviceref.repositories.CustomerRepository;
 import lombok.Value;
 import org.springframework.stereotype.Component;
 import reactor.core.publisher.Flux;

@@ -1,8 +1,8 @@
-package com.iuriimednikov.customerserviceref.web;
+package me.mednikov.customerserviceref.web;
 
-import com.iuriimednikov.customerserviceref.models.CustomerModel;
-import com.iuriimednikov.customerserviceref.services.CustomerService;
-import com.iuriimednikov.customerserviceref.validation.CustomerValidator;
+import me.mednikov.customerserviceref.models.CustomerModel;
+import me.mednikov.customerserviceref.services.CustomerService;
+import me.mednikov.customerserviceref.validation.CustomerValidator;
 import lombok.Value;
 import org.springframework.http.MediaType;
 import org.springframework.stereotype.Component;
