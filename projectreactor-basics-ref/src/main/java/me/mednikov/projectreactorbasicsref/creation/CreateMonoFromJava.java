@@ -1,6 +1,6 @@
-package com.iuriimednikov.projectreactorbasicsref.creation;
+package me.mednikov.projectreactorbasicsref.creation;
 
-import com.iuriimednikov.projectreactorbasicsref.entities.Student;
+import me.mednikov.projectreactorbasicsref.entities.Student;
 import java.util.Optional;
 import reactor.core.publisher.Mono;
 

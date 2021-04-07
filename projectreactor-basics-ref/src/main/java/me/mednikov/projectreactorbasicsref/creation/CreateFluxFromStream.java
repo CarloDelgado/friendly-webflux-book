@@ -1,4 +1,4 @@
-package com.iuriimednikov.projectreactorbasicsref.creation;
+package me.mednikov.projectreactorbasicsref.creation;
 
 import java.util.List;
 import java.util.stream.Stream;

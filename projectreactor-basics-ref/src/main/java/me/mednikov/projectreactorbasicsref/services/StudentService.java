@@ -1,6 +1,6 @@
-package com.iuriimednikov.projectreactorbasicsref.services;
+package me.mednikov.projectreactorbasicsref.services;
 
-import com.iuriimednikov.projectreactorbasicsref.entities.Student;
+import me.mednikov.projectreactorbasicsref.entities.Student;
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
 
@@ -12,7 +12,7 @@ public class StudentService {
     
     public Mono<Student> findStudentByName(String name){
 //        return null;
-//        throw new RuntimeException();
-        return Mono.error(new RuntimeException());
+        throw new RuntimeException();
+//        return Mono.error(new RuntimeException());
     }
 }

@@ -1,4 +1,4 @@
-package com.iuriimednikov.projectreactorbasicsref.entities;
+package me.mednikov.projectreactorbasicsref.entities;
 
 public class Student {
 

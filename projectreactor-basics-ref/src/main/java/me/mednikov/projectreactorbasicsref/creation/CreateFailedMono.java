@@ -1,4 +1,4 @@
-package com.iuriimednikov.projectreactorbasicsref.creation;
+package me.mednikov.projectreactorbasicsref.creation;
 
 import reactor.core.publisher.Mono;
 

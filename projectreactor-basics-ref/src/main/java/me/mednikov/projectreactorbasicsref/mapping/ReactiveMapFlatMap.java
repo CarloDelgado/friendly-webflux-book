@@ -1,6 +1,6 @@
-package com.iuriimednikov.projectreactorbasicsref.mapping;
+package me.mednikov.projectreactorbasicsref.mapping;
 
-import com.iuriimednikov.projectreactorbasicsref.entities.Student;
+import me.mednikov.projectreactorbasicsref.entities.Student;
 import reactor.core.publisher.Mono;
 
 class ReactiveMapFlatMap {

@@ -1,6 +1,6 @@
-package com.iuriimednikov.projectreactorbasicsref.pipelines;
+package me.mednikov.projectreactorbasicsref.pipelines;
 
-import com.iuriimednikov.projectreactorbasicsref.services.StudentService;
+import me.mednikov.projectreactorbasicsref.services.StudentService;
 import reactor.core.publisher.Mono;
 
 class Pipelines {

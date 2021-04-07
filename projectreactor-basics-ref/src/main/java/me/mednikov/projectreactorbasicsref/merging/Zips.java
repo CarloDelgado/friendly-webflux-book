@@ -1,6 +1,6 @@
-package com.iuriimednikov.projectreactorbasicsref.merging;
+package me.mednikov.projectreactorbasicsref.merging;
 
-import com.iuriimednikov.projectreactorbasicsref.entities.Student;
+import me.mednikov.projectreactorbasicsref.entities.Student;
 import reactor.core.publisher.Mono;
 import reactor.util.function.Tuple2;
 

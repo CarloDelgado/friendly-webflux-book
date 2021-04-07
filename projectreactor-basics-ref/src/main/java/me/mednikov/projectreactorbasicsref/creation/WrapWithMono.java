@@ -1,4 +1,4 @@
-package com.iuriimednikov.projectreactorbasicsref.creation;
+package me.mednikov.projectreactorbasicsref.creation;
 
 import java.net.URI;
 import java.net.http.HttpClient;

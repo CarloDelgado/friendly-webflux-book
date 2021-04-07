@@ -1,4 +1,4 @@
-package com.iuriimednikov.projectreactorbasicsref.merging;
+package me.mednikov.projectreactorbasicsref.merging;
 
 import java.time.Duration;
 import reactor.core.publisher.Flux;
@@ -16,7 +16,7 @@ class Merge {
 //        
 //        Iterable<Integer> iterable = result.toIterable();
 //        iterable.forEach(System.out::println);
-
+//
         Flux<Integer> num1 = Flux.just(1,3,5,7,9);
         Flux<Integer> num2 = Flux.just(2,4,6,8,10);
         
